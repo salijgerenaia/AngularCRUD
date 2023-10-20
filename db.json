@@ -1,0 +1,35 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "firstName": "er ",
+      "lastName": "r",
+      "email": "re ",
+      "mobile": " re",
+      "salary": " re"
+    },
+    {
+      "id": 3,
+      "firstName": "er ",
+      "lastName": "r",
+      "email": "re ",
+      "mobile": " re",
+      "salary": " re"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
