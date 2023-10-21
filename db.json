@@ -2,24 +2,43 @@
   "posts": [
     {
       "id": 1,
-      "title": "json-server",
-      "author": "typicode"
+      "firstName": "Jonas",
+      "lastName": "Smith",
+      "email": "SmithJ@hotmail.com",
+      "mobile": "222 389 145 710",
+      "salary": "$ 12, 920"
     },
     {
       "id": 2,
-      "firstName": "er ",
-      "lastName": "r",
-      "email": "re ",
-      "mobile": " re",
-      "salary": " re"
+      "firstName": "Alex",
+      "lastName": "Davis",
+      "email": "AlexDavis@gmail.com",
+      "mobile": "222 344 332 234",
+      "salary": "$ 23, 120"
     },
     {
       "id": 3,
-      "firstName": "er ",
-      "lastName": "r",
-      "email": "re ",
-      "mobile": " re",
-      "salary": " re"
+      "firstName": "Alina",
+      "lastName": "Taylor",
+      "email": "AlinaT@yahoo.com",
+      "mobile": "222 039 401 908",
+      "salary": "$ 30, 234"
+    },
+    {
+      "id": 4,
+      "firstName": "jg",
+      "lastName": "salijh",
+      "email": "234",
+      "mobile": "$333200",
+      "salary": "dev"
+    },
+    {
+      "id": 5,
+      "firstName": "jgerenaia",
+      "lastName": "Salijgerenaia@gmail.com",
+      "email": "568 59 53 32",
+      "mobile": "$ 500 000 ",
+      "salary": "Developer"
     }
   ],
   "comments": [

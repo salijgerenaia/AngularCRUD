@@ -26,7 +26,7 @@ updateEmployee(data: any,id: number){
     return res;
   }))
 }
-deleyeEmployee(id: number){
+deleteEmployee(id: number){
   return this.http.get<any>("http://localhost:3000/posts")
   .pipe(map((res:any)=>{
     return res;
