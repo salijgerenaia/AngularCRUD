@@ -18,27 +18,11 @@
     },
     {
       "id": 3,
-      "firstName": "Alina",
-      "lastName": "Taylor",
-      "email": "AlinaT@yahoo.com",
-      "mobile": "222 039 401 908",
-      "salary": "$ 30, 234"
-    },
-    {
-      "id": 5,
-      "firstName": "jgerenaia",
-      "lastName": "Salijgerenaia@gmail.com",
-      "email": "568 59 53 32",
-      "mobile": "$ 500 000 ",
-      "salary": "Developer"
-    },
-    {
-      "id": 6,
-      "firstName": "sali",
-      "lastName": "jgerenaia",
-      "email": "salijgerenaia@gmail.co",
-      "mobile": "$ 500 000 ",
-      "salary": "developer"
+      "firstName": "Salome",
+      "lastName": "Jgerenaia",
+      "email": "salijgerenaia@gmail.com",
+      "mobile": "$ 500, 000",
+      "salary": null
     }
   ],
   "profile": {

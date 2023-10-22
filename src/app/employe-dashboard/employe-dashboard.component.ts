@@ -65,7 +65,12 @@ export class EmployeDashboardComponent {
     .subscribe(res=>{
       alert("Employee Deleted");
       this.getAllEmployee();
-    })
+
+    },
+    (error) => {
+      console.error("Error deleting employee:", error);
+    }
+    );
   }
   onEdit(row: any){
     this.showAdd = false;
