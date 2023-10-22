@@ -25,27 +25,20 @@
       "salary": "$ 30, 234"
     },
     {
-      "id": 4,
-      "firstName": "jg",
-      "lastName": "salijh",
-      "email": "234",
-      "mobile": "$333200",
-      "salary": "dev"
-    },
-    {
       "id": 5,
       "firstName": "jgerenaia",
       "lastName": "Salijgerenaia@gmail.com",
       "email": "568 59 53 32",
       "mobile": "$ 500 000 ",
       "salary": "Developer"
-    }
-  ],
-  "comments": [
+    },
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "id": 6,
+      "firstName": "sali",
+      "lastName": "jgerenaia",
+      "email": "salijgerenaia@gmail.co",
+      "mobile": "$ 500 000 ",
+      "salary": "developer"
     }
   ],
   "profile": {
